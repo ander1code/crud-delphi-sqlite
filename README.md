@@ -1,8 +1,11 @@
 # CRUD-Delphi-SQLite
 ![Programming Language: Delphi](https://img.shields.io/badge/Delphi-orange?logo=delphi)
+
 ![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite)
+
 ![Platform: Windows](https://img.shields.io/badge/Windows-blue?logo=windows) 
-![Last Commit](https://img.shields.io/github/last-commit/example/crud-delphi-sqlite?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/example/crud-delphi-sqlite?color=blue&logo=files) ![License](https://img.shields.io/github/license/example/crud-delphi-sqlite?color=black&logo=open-source-initiative)
+
+![Last Commit](https://img.shields.io/github/last-commit/example/crud-delphi-sqlite?color=yellow&logo=github) 
 
 ## 1. Description
 A **registration system** developed in **Delphi 7**, utilizing an **SQLite database** for efficient data handling. This project includes various functionalities such as user management, reporting, and data security features.
